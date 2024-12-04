@@ -16,32 +16,11 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Mesh_0",
-			"rotation":[
-				-0.2639195919036865,
-				-0.1000276505947113,
-				0.6398337483406067,
-				0.7148103713989258
-			],
-			"translation":[
-				0,
-				0,
-				-0.9954066276550293
-			]
+			"name":"Mesh_0"
 		},
 		{
 			"mesh":1,
-			"name":"Cube",
-			"scale":[
-				1.2585532665252686,
-				0.7395541667938232,
-				1.9314849376678467
-			],
-			"translation":[
-				0.10471554845571518,
-				0.7844328284263611,
-				-1.3629240989685059
-			]
+			"name":"Cube"
 		}
 	],
 	"materials":[
@@ -128,29 +107,29 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":530830,
+			"count":530910,
 			"max":[
-				1.8024948835372925,
-				1.4045555591583252,
-				2.0481910705566406
+				1.380963921546936,
+				-0.05349503457546234,
+				0.8273434042930603
 			],
 			"min":[
-				-0.16870439052581787,
-				-1.829216718673706,
-				-2.069035291671753
+				-1.225295066833496,
+				-3.7116358280181885,
+				-0.8434208631515503
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":530830,
+			"count":530910,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":530830,
+			"count":530910,
 			"type":"VEC2"
 		},
 		{
@@ -164,14 +143,14 @@
 			"componentType":5126,
 			"count":32,
 			"max":[
-				1.7551863193511963,
-				1.89411199092865,
-				1
+				2.313710927963257,
+				3.0333515610436734e-07,
+				1.4007985591888428
 			],
 			"min":[
-				-1.7551863193511963,
-				-1.894112229347229,
-				-1
+				-2.1042799949645996,
+				-3.8629703521728516,
+				-1.4007986783981323
 			],
 			"type":"VEC3"
 		},
@@ -197,50 +176,50 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":6369960,
+			"byteLength":6370920,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":6369960,
-			"byteOffset":6369960,
+			"byteLength":6370920,
+			"byteOffset":6370920,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":4246640,
-			"byteOffset":12739920,
+			"byteLength":4247280,
+			"byteOffset":12741840,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2123976,
-			"byteOffset":16986560,
+			"byteOffset":16989120,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":384,
-			"byteOffset":19110536,
+			"byteOffset":19113096,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":384,
-			"byteOffset":19110920,
+			"byteOffset":19113480,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":256,
-			"byteOffset":19111304,
+			"byteOffset":19113864,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":108,
-			"byteOffset":19111560,
+			"byteOffset":19114120,
 			"target":34963
 		}
 	],
@@ -252,7 +231,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":19111668,
+			"byteLength":19114228,
 			"uri":"3dmodel.bin"
 		}
 	]
